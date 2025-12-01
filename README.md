@@ -1,4 +1,13 @@
-## Hi there 👋
+## 👋 hi there!
+
+i'm taijee (/ˈtaɪ.ʒi:/), a neek from the uk. welcome to my profile :)
+
+i'm more of a hobbyist tinkerer than anything else, so don't expect to see much consistency on my github.
+
+![Recent last.fm Statistics](https://lastly.nisarga.me/api/recent?username=bbqbeanburgerh)
+![Overall last.fm Statistics](https://lastly.nisarga.me/api/overall?username=bbqbeanburger&period=1month)
+
+you can find me on discord at @.taijee
 
 <!--
 **tai-jee/tai-jee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
