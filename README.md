@@ -4,8 +4,8 @@ i'm taijee (/ˈtaɪ.ʒi:/), a neek from the uk. welcome to my profile :)
 
 i'm more of a hobbyist tinkerer than anything else, so don't expect to see much consistency on my github.
 
-![Recent last.fm Statistics](https://lastly.nisarga.me/api/recent?username=bbqbeanburgerh)
-![Overall last.fm Statistics](https://lastly.nisarga.me/api/overall?username=bbqbeanburger&period=1month)
+<img src="https://lastly.nisarga.me/api/recent?username=bbqbeanburger" alt="Recent last.fm Statistics">
+<img src="https://lastly.nisarga.me/api/overall?username=bbqbeanburger&period=1month" alt="Recent last.fm Statistics">
 
 you can find me on discord at @.taijee
 
