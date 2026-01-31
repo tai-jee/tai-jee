@@ -7,7 +7,7 @@ i'm more of a hobbyist tinkerer than anything else, so don't expect to see much 
 > *so many friends i used to know, making their messes into homes*  
 > *and living lives i'll never know and i'll never hear of*
 
-somewhat competent in python, learning rust
+somewhat competent in python, learning ~~rust~~ go
 
 ![Recent last.fm Statistics](https://lastfm-recently-played.vercel.app/api?user=bbqbeanburger)
 
