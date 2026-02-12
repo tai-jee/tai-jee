@@ -11,4 +11,4 @@ somewhat competent in python, learning ~~rust~~ go
 
 ![Recent last.fm Statistics](https://lastfm-recently-played.vercel.app/api?user=bbqbeanburger)
 
-you can find me on [stoat](https://stoat.chat/) at @taijee#8155 (if you're gonna send me a message, get straight to the point! i don't like accepting random friend requests)
+you can find me on ![stoat](https://stoat.chat/) at @taijee#8155 (if you're gonna send me a message, get straight to the point! i don't like accepting random friend requests)
